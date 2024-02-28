@@ -1,6 +1,3 @@
-<img src=""
-
-I wanted to use to marquee tag but I began coding to late into my life, this is my life's only regret.
 <!---
 Skylerjkinney/Skylerjkinney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
